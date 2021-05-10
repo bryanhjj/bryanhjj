@@ -2,16 +2,7 @@
 
 - 👀 I’m interested in C# and C++, I hope that one day I'll be able to start a pet project of making a video game on my own.
 
-- 🌱 I’m currently familiar with the following:
-      - C#
-      - C++
-      - Javascript
-      - Python
-      - HTML
-      - CSS
-      - React
-      - Node
-      - SQL
+- 🌱 I’m currently familiar with the following: C#, C++, Javascript, Python3, HTML, CSS, React, Node, SQL
  
 - 💞️ I’m looking to collaborate on any projects using the languages that I am familiar with so that I may gain some experience in this line of work as well as building my portfolio.
 
