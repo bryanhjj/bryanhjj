@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bryanhjj! I'm a self-taught programmer.
+- 👋 Hi, I’m @bryanhjj! I've learn to code mostly from online courses (i.e. Codecademy) and watching online tutorial videos.
 
 - 👀 I’m interested in C# and C++, I hope that one day I'll be able to start a pet project of making a video game on my own.
 
